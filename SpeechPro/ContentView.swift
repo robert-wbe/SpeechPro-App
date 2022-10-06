@@ -17,7 +17,7 @@ struct ContentView: View {
         UITableView.appearance().sectionFooterHeight = 0
     }
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List{
                 ForEach(Array(speeches.enumerated()), id: \.offset){i, speech in
 //                    Section{
