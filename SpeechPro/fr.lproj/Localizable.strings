@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  Speech App
+
+  Created by Robert Wiebe on 6/14/22.
+  
+*/
+"My Speeches" = "Mes Discours";
+"TITLE AND AUTHOR" = "TITRE ET AUTEUR";
+"Title" = "Titre";
+"Author" = "Auteur";
+"Add speech" = "Ajouter un discours";
+"Add" = "Ajouter";
+"Made by Robert Wiebe in 2022" = "Créée par Robert Wiebe en 2022";
+"Your speeches will appear here." = "Vos discours apparaîtront ici.";
+"Add a apeech using the \"+\" Button." = "Ajouter un discours en utilisant le bouton \"+\".";
+"Title:" = "Titre:";
+"Author:" = "Auteur:";
+"paragraph" = "paragraphe";
+"paragraphs" = "paragraphes";
+"word" = "mot";
+"words" = "mots";
+"s" = "s";
+"speech title" = "Titre du discours";
+"speech author" = "Auteur du discours";
+"Type/paste your speech in here." = "Tapez/copiez votre discours ici.";
+"Paste" = "Copier";
+"Clear" = "Effacer";
+"Present" = "Présenter";
+"Chunk seperators in speech" = "Séparateurs dans le discours";
+"Line breaks, colons and commas" = "sauts de ligne, points et virgules";
+"Line breaks and colons" = "Sauts de lignes et points";
+"Line breaks only" = "Sauts de ligne seulement";
+"Background Image" = "Fond d'écran";
+"Unnamed Speech" = "Discours sans nom";
+"Gold" = "Or";
+"Red and Blue" = "Rouge et bleu";
+"Purple" = "Violet";
+"Done" = "Terminer";
+"End of content." = "Fin du discours";
+"  by %a" = "  par %a";
+"plural" = "s";
+"Note: Use " = "Utiliser ";
+" to separate chunks in present mode." = " afin de séparer le discours dans le mode de présentation";
+"  by " = "  par ";
+"line breaks, colons and commas" = "Sauts de ligne, points et virgules";
+"line breaks and colons" = "Sauts de ligne et points";
+"line breaks only" = "Sauts de ligne seulement";

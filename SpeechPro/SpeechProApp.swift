@@ -1,14 +1,14 @@
 //
-//  SpeechProApp.swift
-//  SpeechPro
+//  Speech_AppApp.swift
+//  Speech App
 //
-//  Created by Robert Wiebe on 10/6/22.
+//  Created by Robert Wiebe on 5/15/22.
 //
 
 import SwiftUI
 
 @main
-struct SpeechProApp: App {
+struct Speech_AppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  Speech App
+
+  Created by Robert Wiebe on 6/5/22.
+  
+*/
+"My Speeches" = "Meine Reden";
+"TITLE AND AUTHOR" = "TITEL UND AUTOR";
+"Title" = "Titel";
+"Author" = "Autor";
+"Add speech" = "Neue Rede";
+"Add" = "Fertig";
+"Made by Robert Wiebe in 2022" = "Erarbeitet von Robert Wiebe in 2022";
+"Your speeches will appear here." = "Reden werden hier erscheinen.";
+"Add a apeech using the \"+\" Button." = "Nutze das \"+\" um eine Rede hinzuzufügen.";
+"Title:" = "Titel:";
+"Author:" = "Autor:";
+"paragraph" = "Absatz";
+"paragraphs" = "Absätze";
+"word" = "Wort";
+"words" = "Wörter";
+"s" = "e";
+"speech title" = "Name der Rede";
+"speech author" = "Autor der Rede";
+"Type/paste your speech in here." = "Schreibe deine Rede hier oder füge sie hier ein.";
+"Paste" = "Einfügen";
+"Clear" = "Löschen";
+"Present" = "Fertig";
+"Chunk seperators in speech" = "Trennsymbole im Text";
+"Line breaks, colons and commas" = "Absätze, Punkte und Kommata";
+"Line breaks and colons" = "Absätze und Punkte";
+"Line breaks only" = "Nur Absätze";
+"Background Image" = "Hintergrundbild";
+"Unnamed Speech" = "Unbenannte Rede";
+"Gold" = "Gold";
+"Red and Blue" = "Rot und Blau";
+"Purple" = "Violett";
+"Done" = "Fertig";
+"End of content." = "Ende der Rede";
+"  by %a" = "  von %a";
+"plural" = "e";
+"Note: Use " = "Nutze ";
+" to separate chunks in present mode." = " um die Rede aufzuteilen.";
+"  by " = "  von ";
+"line breaks, colons and commas" = "Absätze, Punkte und Kommata";
+"line breaks and colons" = "Absätze und Punkte";
+"line breaks only" = "nur Absätze";

@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1042D18B28EF325D00CA9E90 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18528EF325D00CA9E90 /* HomeView.swift */; };
+		1042D18C28EF325D00CA9E90 /* presentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18628EF325D00CA9E90 /* presentView.swift */; };
+		1042D18D28EF325D00CA9E90 /* speechesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18728EF325D00CA9E90 /* speechesView.swift */; };
+		1042D18E28EF325D00CA9E90 /* SpeechTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18828EF325D00CA9E90 /* SpeechTest.swift */; };
+		1042D18F28EF325D00CA9E90 /* SpeechRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18928EF325D00CA9E90 /* SpeechRecognizer.swift */; };
+		1042D19028EF325D00CA9E90 /* helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1042D18A28EF325D00CA9E90 /* helper.swift */; };
 		106BC84928EF2F1100333495 /* SpeechProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106BC84828EF2F1100333495 /* SpeechProApp.swift */; };
 		106BC84B28EF2F1100333495 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106BC84A28EF2F1100333495 /* ContentView.swift */; };
 		106BC84D28EF2F1100333495 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 106BC84C28EF2F1100333495 /* Assets.xcassets */; };
@@ -34,6 +40,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1042D18528EF325D00CA9E90 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		1042D18628EF325D00CA9E90 /* presentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = presentView.swift; sourceTree = "<group>"; };
+		1042D18728EF325D00CA9E90 /* speechesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = speechesView.swift; sourceTree = "<group>"; };
+		1042D18828EF325D00CA9E90 /* SpeechTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeechTest.swift; sourceTree = "<group>"; };
+		1042D18928EF325D00CA9E90 /* SpeechRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeechRecognizer.swift; sourceTree = "<group>"; };
+		1042D18A28EF325D00CA9E90 /* helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = helper.swift; sourceTree = "<group>"; };
 		106BC84528EF2F1100333495 /* SpeechPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeechPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		106BC84828EF2F1100333495 /* SpeechProApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechProApp.swift; sourceTree = "<group>"; };
 		106BC84A28EF2F1100333495 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +106,12 @@
 		106BC84728EF2F1100333495 /* SpeechPro */ = {
 			isa = PBXGroup;
 			children = (
+				1042D18A28EF325D00CA9E90 /* helper.swift */,
+				1042D18528EF325D00CA9E90 /* HomeView.swift */,
+				1042D18628EF325D00CA9E90 /* presentView.swift */,
+				1042D18728EF325D00CA9E90 /* speechesView.swift */,
+				1042D18928EF325D00CA9E90 /* SpeechRecognizer.swift */,
+				1042D18828EF325D00CA9E90 /* SpeechTest.swift */,
 				106BC84828EF2F1100333495 /* SpeechProApp.swift */,
 				106BC84A28EF2F1100333495 /* ContentView.swift */,
 				106BC84C28EF2F1100333495 /* Assets.xcassets */,
@@ -257,8 +275,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1042D18F28EF325D00CA9E90 /* SpeechRecognizer.swift in Sources */,
+				1042D18C28EF325D00CA9E90 /* presentView.swift in Sources */,
+				1042D18E28EF325D00CA9E90 /* SpeechTest.swift in Sources */,
+				1042D18D28EF325D00CA9E90 /* speechesView.swift in Sources */,
+				1042D18B28EF325D00CA9E90 /* HomeView.swift in Sources */,
 				106BC84B28EF2F1100333495 /* ContentView.swift in Sources */,
 				106BC84928EF2F1100333495 /* SpeechProApp.swift in Sources */,
+				1042D19028EF325D00CA9E90 /* helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
